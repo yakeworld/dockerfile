@@ -1,5 +1,8 @@
 ## shadowsocks
 
+chromium --proxy-server="socks://127.0.0.1:1080" 
+
+
 ![](https://img.shields.io/docker/stars/mritd/shadowsocks.svg) ![](https://img.shields.io/docker/pulls/mritd/shadowsocks.svg) ![](https://img.shields.io/microbadger/image-size/mritd/shadowsocks.svg) ![](https://img.shields.io/microbadger/layers/mritd/shadowsocks.svg)
 
 - **shadowsocks-libev 版本: 3.3.5**
